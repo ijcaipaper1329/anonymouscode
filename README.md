@@ -47,7 +47,10 @@ Our models:
 - SLi_Rec_Fixed
 - SLi_Rec_Adaptive
 
-Categories:
+Categories (Other versions may also work):
 - python 2.7
-- tensorflow 1.4.
+- tensorflow 1.4.1
+- numpy 1.15.4
+- scipy 1.2.0
+- keras 2.1.5
 
