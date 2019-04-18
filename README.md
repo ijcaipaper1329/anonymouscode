@@ -48,6 +48,6 @@ Our models:
 - SLi_Rec_Adaptive
 
 Categories:
-python 2.7
-tensorflow 1.4.
+- python 2.7
+- tensorflow 1.4.
 
