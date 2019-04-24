@@ -47,7 +47,7 @@ Our models:
 - SLi_Rec_Fixed
 - SLi_Rec_Adaptive
 
-## dependencies (Other versions may also work):
+## dependencies (other versions may also work):
 - python==2.7
 - tensorflow==1.4.1
 - keras==2.1.5
